@@ -1,7 +1,6 @@
-# filename: example.py
-
 def main():
-    print("Hello, from main branch!")
+    print("Hello, from merged main branch!")
 
 if __name__ == "__main__":
     main()
+
